@@ -24,9 +24,6 @@
 # along with this program.  If not, see <http://www.gnu.org/licenses/>.        #
 ################################################################################
 
-
-
-
 #####	locales_gameobject	#####
 # INFO: 
 # gameobject are sorted by this order: 

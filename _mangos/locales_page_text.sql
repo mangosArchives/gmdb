@@ -24,9 +24,6 @@
 # along with this program.  If not, see <http://www.gnu.org/licenses/>.        #
 ################################################################################
 
--- GMDB for 1.12.2
--- Status >95% complete
-
 #####	locales_page_text	#####
 
 INSERT IGNORE INTO locales_page_text (entry) SELECT entry FROM page_text;

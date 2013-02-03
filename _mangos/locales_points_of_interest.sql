@@ -24,9 +24,6 @@
 # along with this program.  If not, see <http://www.gnu.org/licenses/>.        #
 ################################################################################
 
--- GMDB for 1.12.2
--- Status 100% complete
-
 #####	locales_points_of_interest	#####
 
 INSERT IGNORE INTO locales_points_of_interest (entry) SELECT entry FROM points_of_interest;
