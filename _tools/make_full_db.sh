@@ -1,5 +1,4 @@
-cat <<EOF > locales_mangos.sql
-cat <<EOF > locales_scriptdev2.sql
+cat <<EOF > locales_mangos.sql locales_scriptdev2.sql
 --
 --
 -- Copyright (C) 2005-2013 MaNGOS <http://getmangos.com/>
