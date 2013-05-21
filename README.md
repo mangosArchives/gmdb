@@ -1,9 +1,9 @@
-GMDB for MaNGOSZero
+GMDB for CMaNGOS or MaNGOSZero
 ==========
 
 Short description
 -------
-GMDB is a German update for the MaNGOSZero Database. 
+GMDB is a German update for MaNGOSZero (https://github.com/mangoszero/database) or CMaNGOS Classic (https://github.com/classicdb/database) Database. 
 
 
 
@@ -23,12 +23,3 @@ Short instruction:
 
 That's all!
 
-Requires still full database from MaNGOSZero (https://github.com/mangoszero/database).
-
-
-License
--------
-**GMDB for MaNGOSZero** is released under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0.
-The file (`LICENSE.md`) **must** be a part of any redistributable packages
-made from this software.  No licenses should be removed from this software if
-you are making redistributable copies.
