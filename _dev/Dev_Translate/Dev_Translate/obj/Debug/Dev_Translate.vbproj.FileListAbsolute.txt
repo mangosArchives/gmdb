@@ -1,0 +1,8 @@
+C:\Daten\Sourcecode\VS2012\Dev_Translate\Dev_Translate\bin\Debug\Dev_Translate.exe
+C:\Daten\Sourcecode\VS2012\Dev_Translate\Dev_Translate\bin\Debug\Dev_Translate.pdb
+C:\Daten\Sourcecode\VS2012\Dev_Translate\Dev_Translate\bin\Debug\Dev_Translate.xml
+C:\Daten\Sourcecode\VS2012\Dev_Translate\Dev_Translate\obj\Debug\Dev_Translate.Resources.resources
+C:\Daten\Sourcecode\VS2012\Dev_Translate\Dev_Translate\obj\Debug\Dev_Translate.vbproj.GenerateResource.Cache
+C:\Daten\Sourcecode\VS2012\Dev_Translate\Dev_Translate\obj\Debug\Dev_Translate.exe
+C:\Daten\Sourcecode\VS2012\Dev_Translate\Dev_Translate\obj\Debug\Dev_Translate.xml
+C:\Daten\Sourcecode\VS2012\Dev_Translate\Dev_Translate\obj\Debug\Dev_Translate.pdb

@@ -1,6 +1,6 @@
 License
 =======
-**GMDB for MaNGOSZero** is copyright of the respective authors, and is available under
+**GMDB for MaNGOS** is copyright of the respective authors, and is available under
 the [Creative Commons Attribution-NonCommercial-ShareAlike 3.0][1] license,
 except where explicitly stated otherwise.
 

@@ -24,7 +24,7 @@
 # along with this program.  If not, see <http://www.gnu.org/licenses/>.        #
 ################################################################################
 
-#####	locales_points_of_interest	#####
+#####  locales_points_of_interest	#####
 
 INSERT IGNORE INTO locales_points_of_interest (entry) SELECT entry FROM points_of_interest;
 
@@ -43,33 +43,33 @@ UPDATE locales_points_of_interest SET icon_name_loc3='Schmied Argus' WHERE entry
 UPDATE locales_points_of_interest SET icon_name_loc3='Tomas' WHERE entry=10;
 UPDATE locales_points_of_interest SET icon_name_loc3='Michelle Belle' WHERE entry=11;
 UPDATE locales_points_of_interest SET icon_name_loc3='Lee Braun' WHERE entry=12;
-UPDATE locales_points_of_interest SET icon_name_loc3='Inschriften von Sturmwind' WHERE entry=13;
+UPDATE locales_points_of_interest SET icon_name_loc3='Inschriften von Stormwind' WHERE entry=13;
 UPDATE locales_points_of_interest SET icon_name_loc3='Adele Fädler' WHERE entry=14;
 UPDATE locales_points_of_interest SET icon_name_loc3='Helene Pelzschneider' WHERE entry=15;
 UPDATE locales_points_of_interest SET icon_name_loc3='Eldrin' WHERE entry=16;
 UPDATE locales_points_of_interest SET icon_name_loc3='Erma' WHERE entry=17;
-UPDATE locales_points_of_interest SET icon_name_loc3='Auktionshaus von Sturmwind' WHERE entry=18;
-UPDATE locales_points_of_interest SET icon_name_loc3='Bank von Sturmwind' WHERE entry=19;
-UPDATE locales_points_of_interest SET icon_name_loc3='Hafen von Sturmwind' WHERE entry=20;
+UPDATE locales_points_of_interest SET icon_name_loc3='Auktionshaus von Stormwind' WHERE entry=18;
+UPDATE locales_points_of_interest SET icon_name_loc3='Bank von Stormwind' WHERE entry=19;
+UPDATE locales_points_of_interest SET icon_name_loc3='Hafen von Stormwind' WHERE entry=20;
 UPDATE locales_points_of_interest SET icon_name_loc3='Die Tiefenbahn' WHERE entry=21;
 UPDATE locales_points_of_interest SET icon_name_loc3='Die güldene Rose' WHERE entry=22;
-UPDATE locales_points_of_interest SET icon_name_loc3='Greifenmeister von Sturmwind' WHERE entry=23;
-UPDATE locales_points_of_interest SET icon_name_loc3='Besucherzentrum von Sturmwind' WHERE entry=24;
-UPDATE locales_points_of_interest SET icon_name_loc3='Schlosser von Sturmwind' WHERE entry=25;
+UPDATE locales_points_of_interest SET icon_name_loc3='Greifenmeister von Stormwind' WHERE entry=23;
+UPDATE locales_points_of_interest SET icon_name_loc3='Besucherzentrum von Stormwind' WHERE entry=24;
+UPDATE locales_points_of_interest SET icon_name_loc3='Schlosser von Stormwind' WHERE entry=25;
 UPDATE locales_points_of_interest SET icon_name_loc3='Jenova Steinschild' WHERE entry=26;
 UPDATE locales_points_of_interest SET icon_name_loc3='Woo Ping' WHERE entry=27;
 UPDATE locales_points_of_interest SET icon_name_loc3='Die Halle der Champions' WHERE entry=28;
-UPDATE locales_points_of_interest SET icon_name_loc3='Kampfmeister von Sturmwind' WHERE entry=29;
-UPDATE locales_points_of_interest SET icon_name_loc3='Barbier von Sturmwind' WHERE entry=30;
-UPDATE locales_points_of_interest SET icon_name_loc3='Inschriften von Sturmwind' WHERE entry=31;
+UPDATE locales_points_of_interest SET icon_name_loc3='Kampfmeister von Stormwind' WHERE entry=29;
+UPDATE locales_points_of_interest SET icon_name_loc3='Barbier von Stormwind' WHERE entry=30;
+UPDATE locales_points_of_interest SET icon_name_loc3='Inschriften von Stormwind' WHERE entry=31;
 UPDATE locales_points_of_interest SET icon_name_loc3='Der Park' WHERE entry=32;
 UPDATE locales_points_of_interest SET icon_name_loc3='Jägerlodge' WHERE entry=33;
 UPDATE locales_points_of_interest SET icon_name_loc3='Magiersanktum' WHERE entry=34;
 UPDATE locales_points_of_interest SET icon_name_loc3='Kathedrale des Lichts' WHERE entry=35;
-UPDATE locales_points_of_interest SET icon_name_loc3='Schurkenhaus von Sturmwind' WHERE entry=36;
+UPDATE locales_points_of_interest SET icon_name_loc3='Schurkenhaus von Stormwind' WHERE entry=36;
 UPDATE locales_points_of_interest SET icon_name_loc3='Weissagerin Umbrua' WHERE entry=37;
 UPDATE locales_points_of_interest SET icon_name_loc3='Zum geschlachteten Lamm' WHERE entry=38;
-UPDATE locales_points_of_interest SET icon_name_loc3='Kaserne von Sturmwind' WHERE entry=39;
+UPDATE locales_points_of_interest SET icon_name_loc3='Kaserne von Stormwind' WHERE entry=39;
 UPDATE locales_points_of_interest SET icon_name_loc3='Alchemiebedarf' WHERE entry=40;
 UPDATE locales_points_of_interest SET icon_name_loc3='Therum Tiefenschmied' WHERE entry=41;
 UPDATE locales_points_of_interest SET icon_name_loc3='Taverne Zum pfeifenden Schwein' WHERE entry=42;
